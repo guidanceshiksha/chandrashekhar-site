@@ -1,0 +1,9 @@
+node_modules/
+public/
+.env
+.env.*
+!.env.example
+*.zip
+.claude/
+.agents/
+dist/
